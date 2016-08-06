@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_2c59bf36dac3fb0f7aacf740b88e3c51fa27462c/classes.dex" />
+    </item>
+    <item
+        jar="/home/lee/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_e38f0dcaae3025dbaf996bbfbffaec482d124283/classes.dex" />
+    </item>
+    <item
+        jar="/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_584aae581da3adfe889d6689ebe68a6809929f6f/classes.dex" />
+    </item>
+    <item
+        jar="/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f5a793ba5c7ffe86f9c3974516798ce73e35c5e5">
+        <dex dex="/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fee5fec1abe9fc5c347259b6339d2c13c089597d/classes.dex" />
+    </item>
+    <item
+        jar="/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="315abf13b7444ca9e1a06931dff5f04dacc014f5">
+        <dex dex="/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_225ea20b0f54f38310175ea4c44852a49e963100/classes.dex" />
+    </item>
+
+</items>

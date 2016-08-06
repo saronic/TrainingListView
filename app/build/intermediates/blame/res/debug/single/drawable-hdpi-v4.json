@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cherry_pic.png",
+        "source": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/src/main/res/drawable-hdpi/cherry_pic.png"
+    },
+    {
+        "merged": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/apple_pic.png",
+        "source": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/src/main/res/drawable-hdpi/apple_pic.png"
+    },
+    {
+        "merged": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mango_pic.png",
+        "source": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/src/main/res/drawable-hdpi/mango_pic.png"
+    },
+    {
+        "merged": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/orange_pic.png",
+        "source": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/src/main/res/drawable-hdpi/orange_pic.png"
+    },
+    {
+        "merged": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/banana_pic.png",
+        "source": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/src/main/res/drawable-hdpi/banana_pic.png"
+    },
+    {
+        "merged": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/grape_pic.png",
+        "source": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/src/main/res/drawable-hdpi/grape_pic.png"
+    },
+    {
+        "merged": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/watermelon_pic.png",
+        "source": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/src/main/res/drawable-hdpi/watermelon_pic.png"
+    },
+    {
+        "merged": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/strawberry_pic.png",
+        "source": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/src/main/res/drawable-hdpi/strawberry_pic.png"
+    },
+    {
+        "merged": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pear_pic.png",
+        "source": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/src/main/res/drawable-hdpi/pear_pic.png"
+    },
+    {
+        "merged": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pineapple_pic.png",
+        "source": "/home/lee/workspace/androidstu_ws/UIListViewTest/app/src/main/res/drawable-hdpi/pineapple_pic.png"
+    }
+]
